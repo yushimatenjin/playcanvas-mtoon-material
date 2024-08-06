@@ -1,0 +1,1 @@
+export { default as MToonMaterial } from './mtoon-material';
